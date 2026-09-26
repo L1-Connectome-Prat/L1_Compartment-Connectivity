@@ -103,7 +103,6 @@ L1_Compartment-Connectivity/
     Compartment_Colors_Level1.pkl
     Compartment_Order_*.npy
     Lineages_*.npy
-    NodeBubble.pkl
     LAL-Neurons/                      # SWC morphology files
     Tracts/                           # STL mesh files
   Analysis_Outputs/
